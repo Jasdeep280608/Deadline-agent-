@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Agents for Humans hackathon submission",
+    "due_date": "2026-09-14T17:00:00-07:00",
+    "priority": "high",
+    "notes": "Devpost form + repo + demo video"
+  },
+  {
+    "id": 2,
+    "title": "DSA assignment - Trees module",
+    "due_date": "2026-09-05T23:59:00+05:30",
+    "priority": "medium",
+    "notes": "Submit on college portal"
+  },
+  {
+    "id": 3,
+    "title": "Microsoft Generative AI cert - Module 3 quiz",
+    "due_date": "2026-09-20T23:59:00+05:30",
+    "priority": "low",
+    "notes": "Coursera"
+  },
+  {
+    "id": 4,
+    "title": "College Hackathon",
+    "due_date": "2026-09-13T17:00:00+05:30",
+    "priority": "high",
+    "notes": "v.v.v.imp"
+  }
+]
